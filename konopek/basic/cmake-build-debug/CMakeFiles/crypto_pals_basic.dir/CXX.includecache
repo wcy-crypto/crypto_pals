@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michalkonopka/CLionProjects/konopek/basic/base64.hpp
+string
+-
+
+/home/michalkonopka/CLionProjects/konopek/basic/main.cpp
+iostream
+-
+cassert
+-
+vector
+-
+fstream
+-
+array
+-
+simpleXor.hpp
+/home/michalkonopka/CLionProjects/konopek/basic/simpleXor.hpp
+base64.hpp
+/home/michalkonopka/CLionProjects/konopek/basic/base64.hpp
+
+/home/michalkonopka/CLionProjects/konopek/basic/simpleXor.hpp
+iostream
+-
+algorithm
+-
+

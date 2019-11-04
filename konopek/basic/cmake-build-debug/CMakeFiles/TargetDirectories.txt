@@ -1,0 +1,3 @@
+/home/michalkonopka/CLionProjects/konopek/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michalkonopka/CLionProjects/konopek/basic/cmake-build-debug/CMakeFiles/crypto_pals_basic.dir
+/home/michalkonopka/CLionProjects/konopek/basic/cmake-build-debug/CMakeFiles/edit_cache.dir

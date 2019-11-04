@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/crypto_pals_basic.dir/main.cpp.o  -o crypto_pals_basic 
